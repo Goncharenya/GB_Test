@@ -1,0 +1,15 @@
+/Users/tanya/Documents/GeekBrainsTest/task/bin/Debug/net6.0/task
+/Users/tanya/Documents/GeekBrainsTest/task/bin/Debug/net6.0/task.deps.json
+/Users/tanya/Documents/GeekBrainsTest/task/bin/Debug/net6.0/task.runtimeconfig.json
+/Users/tanya/Documents/GeekBrainsTest/task/bin/Debug/net6.0/task.dll
+/Users/tanya/Documents/GeekBrainsTest/task/bin/Debug/net6.0/task.pdb
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.csproj.AssemblyReference.cache
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.AssemblyInfoInputs.cache
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.AssemblyInfo.cs
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.csproj.CoreCompileInputs.cache
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.dll
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/refint/task.dll
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.pdb
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/task.genruntimeconfig.cache
+/Users/tanya/Documents/GeekBrainsTest/task/obj/Debug/net6.0/ref/task.dll
