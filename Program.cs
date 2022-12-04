@@ -11,7 +11,7 @@ for (int i = 0; i < myArray.Length; i++)
 
 string[] array2 = new string[myArray.Length];
 
-void SecondArrayWithIF(string[] myArray, string[] array2)
+void SecondArray(string[] myArray, string[] array2)
 {
     int count = 0;
     for (int i = 0; i < myArray.Length; i++)
@@ -32,9 +32,8 @@ void ShowArray(string[] array)
     }
 }
 
-
 Console.WriteLine(myArray);
-SecondArrayWithIF(myArray, array2);
+SecondArray(myArray, array2);
 ShowArray(array2);
 
 
